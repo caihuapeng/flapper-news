@@ -1,0 +1,32 @@
+{
+  "name": "MEAN",
+  "description": "mean-stack-tutorial",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "mean",
+    "tutorial",
+    "thinkster.io"
+  ],
+  "authors": [
+    "luffySAMA"
+  ],
+  "license": "MIT",
+  "homepage": "https://thinkster.io/mean-stack-tutorial",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "ui-router#^0.2.18",
+    "angular": "angularjs#^1.5.0",
+    "bootstrap": "^3.3.6",
+    "jquery-ui": "^1.11.4"
+  }
+}
